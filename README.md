@@ -1,2 +1,3 @@
 # hello-world
-primary project to get accustomed to git
+Hoping to regularly use Git for code usage after creating the account a year before.. that's mee..
+
